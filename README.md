@@ -12,6 +12,6 @@
 </div>
 
 <div>
-<h3>About me:</h3>
+<h3>🤪 About me:</h3>
 <p><b>I mainly fork projects that arent mine, then deploy them to distribute to my whole school.</b></p>
 </div>
