@@ -5,3 +5,7 @@
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitch-blue?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
 </div>
+
+<div>
+<p>I mainly fork projects that arent mine, then deploy them to distribute to my whole school.</p>
+</div>
