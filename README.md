@@ -7,7 +7,7 @@
 </div>
 
 <div>
+<p><b>
 
-
-<p><b>I mainly fork projects that arent mine, then deploy them to distribute to my whole school.</b></p>
+I mainly fork projects that arent mine, then deploy them to distribute to my whole school.</b></p>
 </div>
