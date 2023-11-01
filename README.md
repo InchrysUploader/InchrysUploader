@@ -8,7 +8,9 @@
 <a href="https://twitch.tv/Inchrys">
   <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
 </a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
 <img src="https://komarev.com/ghpvc/?username=InchrysUploader&style=for-the-badge&color=blue" alt="Profile Views"/>
+</a>
 </div>
 
 <div>
