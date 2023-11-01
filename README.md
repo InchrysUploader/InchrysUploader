@@ -6,7 +6,7 @@
 <a href="https://twitch.tv/Inchrys">
   <img src="https://img.shields.io/badge/Twitch-blue?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
 </a>
-<img src="https://komarev.com/ghpvc/?InchrysUploader&style=flat-square&color=blue" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?InchrysUploader" alt="Profile Views"/>
 </div>
 
 <div>
