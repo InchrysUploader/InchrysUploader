@@ -1,4 +1,4 @@
-### Hey, I'm good at distributing sites to my school.
+<h1 allign="center">Hey, I'm good at distributing sites to my school.</h1>
 
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/Discord-blue?logo=Discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
