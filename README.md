@@ -5,4 +5,4 @@
 ≺🏫≻ I'm currently learning basic HTML, CSS, and JS.<br/>
 (which if you have help for, reach out pls)
 
-<b>discord: inchrys</b>
+<b>discord: inchy.winchy</b>
